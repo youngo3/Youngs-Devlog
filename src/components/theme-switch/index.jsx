@@ -50,8 +50,8 @@ export const ThemeSwitch = () => {
           id="normal-switch"
           height={24}
           width={48}
-          checkedIcon={<div className="icon checkedIcon">D</div>}
-          uncheckedIcon={<div className="icon uncheckedIcon">L</div>}
+          checkedIcon={<div className="icon checkedIcon">🌛</div>}
+          uncheckedIcon={<div className="icon uncheckedIcon">🌞</div>}
           offColor={'#d9dfe2'}
           offHandleColor={'#fff'}
           onColor={'#999'}
